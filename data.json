@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Story report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Story",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-02T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 14
+        }
+    },
+    {
+        "id": "2",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Story report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Story",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-07T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 9
+        }
+    },
+    {
+        "id": "3",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Story report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Story",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-14T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 2
+        }
+    },
+    {
+        "id": "4",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Improvement report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Improvement",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-13T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 3
+        }
+    },
+    {
+        "id": "5",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Improvement report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Improvement",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-15T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 1
+        }
+    },
+    {
+        "id": "6",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Improvement report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Improvement",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-12T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 4
+        }
+    },
+    {
+        "id": "7",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Epic report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Epic",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-16T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 4
+        }
+    },
+    {
+        "id": "8",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Epic report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Epic",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-16T00:00:00.000+0000",
+            "resolutionDate": "2022-06-21T00:00:00.000+0000",
+            "mttr": 5
+        }
+    },
+    {
+        "id": "9",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Epic report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Epic",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-21T00:00:00.000+0000",
+            "resolutionDate": "2022-06-23T00:00:00.000+0000",
+            "mttr": 2
+        }
+    },
+    {
+        "id": "10",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Bug report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Bug",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-16T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 4
+        }
+    },
+    {
+        "id": "11",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Bug report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Bug",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-11T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 9
+        }
+    },
+    {
+        "id": "12",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Bug report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Bug",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-19T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 1
+        }
+    },
+    {
+        "id": "13",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Task report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-16T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 4
+        }
+    },
+    {
+        "id": "14",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Task report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-13T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 7
+        }
+    },
+    {
+        "id": "15",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Task report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-18T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 2
+        }
+    },
+    {
+        "id": "16",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Sub-task report 1",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Sub-task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-02T00:00:00.000+0000",
+            "resolutionDate": "2022-06-16T00:00:00.000+0000",
+            "mttr": 14
+        }
+    },
+    {
+        "id": "17",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Sub-task report 2",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Sub-task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-16T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 4
+        }
+    },
+    {
+        "id": "18",
+        "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+        "key": "HSP-1",
+        "fields": {
+            "flagged": true,
+            "sprint": {},
+            "description": "Sub-task report 3",
+            "project": {},
+            "updated": true,
+            "timetracking": {},
+            "status": "Done",
+            "assignee": {
+            },
+            "priority": {
+            },
+            "issuetype": "Sub-task",
+            "labels": [
+                "critical"
+            ],
+            "createdDate": "2022-06-19T00:00:00.000+0000",
+            "resolutionDate": "2022-06-20T00:00:00.000+0000",
+            "mttr": 1
+        }
+    }
+]
